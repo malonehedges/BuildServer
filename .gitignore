@@ -1,0 +1,4 @@
+build
+maps/*
+!maps/.keep
+server
